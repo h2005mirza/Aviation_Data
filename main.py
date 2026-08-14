@@ -5,7 +5,7 @@ import urllib.error
 import urllib.parse
 import json
 
-api_key = "9112a0bb1ced564618fd9d4022aedffb"
+api_key = "#############################"
 base_url = "https://api.aviationstack.com/v1/"
 
 def get_live_flight_data():
